@@ -13,3 +13,5 @@
 - Constant evolution: keep up to date with the latest trends.
 
 ✅ Join us on our social networks @CodingW3 and start your web development journey today!
+
+#️⃣ Tags: #codingw3 #developer #dev #learning #web #frontend #backend #fullstack #HTML #CSS #JS #JavaScript
