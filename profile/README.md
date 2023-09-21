@@ -1,5 +1,5 @@
 ``` javascript
-  console.log("Hello World! Welcome to CodingW3.");
+console.log("Hello World! Welcome to CodingW3.");
 ```
 
 🌐 **Explore the world of web development with us!**
