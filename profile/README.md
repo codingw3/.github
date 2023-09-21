@@ -1,4 +1,9 @@
-### 🌐 **Explore the world of web development with us! Whether you're a curious beginner or a seasoned pro, [@CodingW3](https://youtube.com/@CodingW3) offers features for all skill levels.**
+``` javascript
+  console.log("Hello World! Welcome to CodingW3.");
+```
+
+🌐 **Explore the world of web development with us!**
+> Whether you're a curious beginner or a seasoned pro, [@CodingW3](https://youtube.com/@CodingW3) offers features for all skill levels.
 
 🚀 **What we offer:**
 - Personalized Learning Paths: We guide you from basics to advanced, step by step.
