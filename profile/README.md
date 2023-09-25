@@ -1,3 +1,5 @@
+![Github viewers](https://komarev.com/ghpvc/?username=codingw3&color=3cb371&style=for-the-badge)
+
 ``` javascript
 console.log("Hello World! Welcome to CodingW3.");
 ```
