@@ -20,8 +20,8 @@ console.log("Hello World! Welcome to CodingW3.");
 
 ✅ Join us on our social networks @CodingW3 and start your web development journey today!
 
-- Link in Bio: https://linkin.bio/codingw3
 - Youtube: https://youtube.com/@codingw3
+- Link in Bio: https://linkin.bio/codingw3
 - Instagram: https://instagram.com/codingw3
 - Facebook: https://facebook.com/codingw3
 - Twitter: https://twitter.com/codingw3
