@@ -27,7 +27,7 @@ console.log("Hello World! Welcome to CodingW3.");
 - Twitter: [Link](https://twitter.com/codingw3)
 - Pinterest: [Link](https://pinterest.com/codingw3)
 - TikTok: [Link](https://tiktok.com/@codingw3)
-- Linkedin: [Link](ttps://linkedin.com/company/codingw3)
+- Linkedin: [Link](https://linkedin.com/company/codingw3)
 - E-mail: codingw3@gmail.com
 
 #️⃣ Tags: #codingw3 #developer #dev #learning #web #frontend #backend #fullstack #HTML #CSS #JS #JavaScript
