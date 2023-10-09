@@ -21,13 +21,13 @@ console.log("Hello World! Welcome to CodingW3.");
 ✅ Join us on our social networks @CodingW3 and start your web development journey today!
 
 - Youtube: [Link](https://youtube.com/@codingw3?sub_confirm=1)
-- Link in Bio: [Link](https://linkin.bio/codingw3)
 - Instagram: [Link](https://instagram.com/codingw3)
-- Facebook: [Link](https://facebook.com/codingw3)
-- Twitter: [Link](https://twitter.com/codingw3)
-- Pinterest: [Link](https://pinterest.com/codingw3)
-- TikTok: [Link](https://tiktok.com/@codingw3)
-- Linkedin: [Link](https://linkedin.com/company/codingw3)
+- Link in Bio: [Link](https://linkin.bio/codingw3)
 - E-mail: codingw3@gmail.com
+<!-- - Facebook: [Link](https://facebook.com/codingw3) -->
+<!-- - Twitter: [Link](https://twitter.com/codingw3) -->
+<!-- - Pinterest: [Link](https://pinterest.com/codingw3) -->
+<!-- - TikTok: [Link](https://tiktok.com/@codingw3) -->
+<!-- - Linkedin: [Link](https://linkedin.com/company/codingw3) -->
 
 #️⃣ Tags: #codingw3 #developer #dev #learning #web #frontend #backend #fullstack #HTML #CSS #JS #JavaScript
