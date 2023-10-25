@@ -21,9 +21,9 @@ console.log("Hello World! Welcome to CodingW3.");
 ✅ Join us on our social networks @CodingW3 and start your web development journey today!
 
 - Youtube: [Link](https://youtube.com/@codingw3?sub_confirm=1)
-- Instagram: [Link](https://instagram.com/codingw3)
-- Link in Bio: [Link](https://linkin.bio/codingw3)
 - E-mail: codingw3@gmail.com
+<!-- - Instagram: [Link](https://instagram.com/codingw3) -->
+<!-- - Link in Bio: [Link](https://linkin.bio/codingw3) -->
 <!-- - Facebook: [Link](https://facebook.com/codingw3) -->
 <!-- - Twitter: [Link](https://twitter.com/codingw3) -->
 <!-- - Pinterest: [Link](https://pinterest.com/codingw3) -->
