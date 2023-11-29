@@ -22,6 +22,7 @@ console.log("Hello World! Welcome to CodingW3");
 
 - Youtube: [Link](https://youtube.com/@codingw3?sub_confirm=1)
 - Telegram: [Link](https://t.me/codingw3)
+- GitHub: [Link](https://github.com/codingw3)
 - E-mail: codingw3@gmail.com
 <!-- - Instagram: [Link](https://instagram.com/codingw3) -->
 <!-- - Twitter: [Link](https://twitter.com/codingw3) -->
